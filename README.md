@@ -1,7 +1,7 @@
 # Capstone Project Proposals
 
 ## Proposal #1
-Using [Rent The Runway Dataset](https://cseweb.ucsd.edu/~jmcauley/datasets.html#clothing_fit), I want to predict product rating using NLP on customer reviews, Time Series Forecasting on date rented/reviewed, and Regression or neural network algorithm on the remaining features (numerical and categorical). 
+Using [Rent The Runway Dataset](https://cseweb.ucsd.edu/~jmcauley/datasets.html#clothing_fit), I want to predict product rating using NLP on customer reviews, Time Series Forecasting on date rented/reviewed, and Regression or neural network algorithm on the remaining features (numerical and categorical). Possibly, create recommender system.
 
 Rent The Runway allows people to rent clothes.
 
