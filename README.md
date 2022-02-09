@@ -13,7 +13,7 @@ The Data:
 ([Also found on Kaggle](https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation?select=renttherunway_final_data.json))
 
 ## Proposal #2
-Using [Women's Intimate Apparel Dataset](https://www.kaggle.com/PromptCloudHQ/innerwear-data-from-victorias-secret-and-others), I want to predict the price of product across different companies using NLP on product description, and Regression or neural network algorithm on the remaining features (numerical and categorical). 
+Using [Women's Intimate Apparel Dataset](https://www.kaggle.com/PromptCloudHQ/innerwear-data-from-victorias-secret-and-others), I want to predict the price of product across different companies using NLP on product description, and Regression or neural network algorithm on the remaining features (numerical and categorical). Alternatively, classify products according to company.
 
 Number of Products per Company:
 - Aerie: 24,488
