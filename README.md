@@ -1,7 +1,7 @@
 # Capstone Project Proposals
 
 ## Proposal 0
-Using [Fashion Product Dataset](https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset), I want to predict the category of the products by combining NLP analysis on product description with CNN on the images. I also think of timeseries forecasting given the season and year variables predicting price of the products. Lastly, implementing a recommender system based on the product's similarity.
+Using [Fashion Product Dataset](https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset), I want to predict the category of the products by combining CNN modeling on the images with NLP analysis on product descriptions. I also think of timeseries forecasting given the season and year variables predicting price of the products. Lastly, implementing a recommender system based on the product's similarity.
 
 The Data: A total of 44,446 products with multiple category labels, text descriptions, and images.
 
